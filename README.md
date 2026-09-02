@@ -1,60 +1,77 @@
 # Hi, I'm Sharon 👋
 
-I'm a self-taught Full Stack MERN Developer from Kerala, India, passionate about building real-world web applications and solving problems through software.
+I'm a Junior Software Developer from Kerala, India, with hands-on experience building and deploying full-stack applications. My current foundation is in JavaScript and the MERN stack, and I'm focused on becoming a stronger software engineer through building real-world projects and solving practical problems.
 
 ## 🚀 Current Focus
 
-* Building **DevSpace**, a React-based project management platform for developers.
-* Improving my frontend architecture and React development skills.
-* Actively looking for opportunities as a MERN Stack Developer.
+- Building **DevSpace**, a React-based project management platform for developers.
+- Strengthening my React, frontend architecture, and TypeScript skills.
+- Expanding my knowledge into new technologies and development environments.
+- Looking for opportunities as a **Junior Software Developer**.
 
-## 🛠 Tech Stack
+## 🛠 Technologies & Tools
+
+**Languages**
+- JavaScript
+- TypeScript
 
 **Frontend**
-
-* HTML
-* CSS
-* JavaScript
-* React
-* Bootstrap
-* Tailwind CSS
+- React
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
 
 **Backend**
+- Node.js
+- Express.js
+- REST APIs
 
-* Node.js
-* Express.js
-* MongoDB
+**Databases**
+- MongoDB
+- Firebase
 
 **Tools & Platforms**
-
-* Git & GitHub
-* AWS
-* Vercel
-* Cloudinary
-* Google Cloud
+- Git & GitHub
+- AWS
+- Vercel
+- Render
+- Cloudinary
+- Google Cloud
 
 ## 📌 Featured Projects
 
-### PixelPoint
+### 🛒 PixelPoint
 
-A full-stack e-commerce platform for new and refurbished laptops featuring:
+**Full-Stack E-commerce Platform**
 
-* Authentication & Google OAuth
-* Wallet & Referral System
-* Razorpay Payment Integration
-* Inventory Management
-* Order Lifecycle & Returns
-* Admin Analytics Dashboard
-* Cloudinary Media Storage
+A full-stack e-commerce platform for new and refurbished laptops, built with a focus on real-world application workflows.
 
-### DevSpace *(In Progress)*
+- Implemented authentication, including Google OAuth and OTP login
+- Built wallet and referral functionality
+- Integrated Razorpay for online payments
+- Developed product, inventory, cart, wishlist, and order workflows
+- Built coupon and offer management
+- Developed an admin analytics dashboard with sales reports and exports
+- Integrated Cloudinary for media management
+- Deployed and managed the application in a production environment
 
-A project management platform designed for developers to manage projects, tasks, notes, and workflows in a single workspace while showcasing modern React development practices.
+### 💻 DevSpace *(In Progress)*
 
-## 🌐 Links
+A project management platform designed for developers to manage projects, tasks, notes, and workflows in one workspace.
 
-Portfolio: https://sharonp.pro
+Currently focused on:
+- React component architecture
+- TypeScript
+- Frontend application structure
+- Building reusable and maintainable UI components
 
-## 📈 Current Goal
+## 🌐 Connect With Me
 
-Build great software, keep learning every day, and land my first software engineering role.
+- **Portfolio:** https://sharonp.pro
+- **LinkedIn:** [Add LinkedIn]
+- **Email:** [Add Email]
+
+## 🎯 What I'm Working Toward
+
+I'm focused on becoming a well-rounded software developer who can learn new technologies, solve problems independently, and contribute effectively to a development team.
