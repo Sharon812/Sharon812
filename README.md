@@ -69,8 +69,8 @@ Currently focused on:
 ## 🌐 Connect With Me
 
 - **Portfolio:** https://sharonp.pro
-- **LinkedIn:** [Add LinkedIn]
-- **Email:** [Add Email]
+- **LinkedIn:** https://www.linkedin.com/in/sharon-p-dev/
+- **Email:** sharonp.dev.1@gmail.com
 
 ## 🎯 What I'm Working Toward
 
