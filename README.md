@@ -66,7 +66,7 @@ A full-stack e-commerce platform for new and refurbished laptops, built with a f
 - Integrated Cloudinary for media management
 - Deployed and managed the application in a production environment
 
-  **Repositories:**
+**Repositories:**
 - [Android Application](https://github.com/Sharon812/Pixel-Point)
 
 ### 📱 DevTasks
