@@ -68,7 +68,6 @@ A full-stack e-commerce platform for new and refurbished laptops, built with a f
 
   **Repositories:**
 - [Android Application](https://github.com/Sharon812/Pixel-Point)
-- [Live Demo](pixelpoint.sharonp.pro)
 
 ### 📱 DevTasks
 
