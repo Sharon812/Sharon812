@@ -66,6 +66,10 @@ A full-stack e-commerce platform for new and refurbished laptops, built with a f
 - Integrated Cloudinary for media management
 - Deployed and managed the application in a production environment
 
+  **Repositories:**
+- [Android Application](https://github.com/Sharon812/Pixel-Point)
+- [Live Demo](pixelpoint.sharonp.pro)
+
 ### 📱 DevTasks
 
 **Android Task Management Application**
@@ -81,7 +85,7 @@ A task management Android application built with Kotlin and Jetpack Compose, con
 - Tested the application on a physical Android device
 
 **Repositories:**
-- [Android Application](https://github.com/Sharon812/DevTasks)
+- [Android Application](https://github.com/Sharon812/DevTask-Android)
 - [REST API](https://github.com/Sharon812/DevTask-API-s)
 
 ### 💻 DevSpace *(In Progress)*
