@@ -67,7 +67,8 @@ A full-stack e-commerce platform for new and refurbished laptops, built with a f
 - Deployed and managed the application in a production environment
 
 **Repositories:**
-- [Web Application](https://github.com/Sharon812/Pixel-Point)
+- [Web Application](https://pixelpoint.sharonp.pro)
+- [Github](https://github.com/Sharon812/Pixel-Point)
 
 ### 📱 DevTasks
 
@@ -87,15 +88,27 @@ A task management Android application built with Kotlin and Jetpack Compose, con
 - [Android Application](https://github.com/Sharon812/DevTask-Android)
 - [REST API](https://github.com/Sharon812/DevTask-API-s)
 
-### 💻 DevSpace *(In Progress)*
+### 💻 DevSpace 
 
 A project management platform designed for developers to manage projects, tasks, notes, and workflows in one workspace.
 
 Currently focused on:
-- React component architecture
-- TypeScript
-- Frontend application structure
-- Building reusable and maintainable UI components
+- Built the frontend with React, TypeScript, Vite, and Tailwind CSS
+- Implemented reusable UI components using shadcn/ui and Base UI
+- Built a responsive application shell with sidebar navigation, dynamic page headers, and account controls
+- Implemented JWT authentication with register, login, logout, and persistent authentication
+- Added protected frontend routes and authenticated API access
+- Implemented authentication state using React Context API and custom hooks
+- Built API communication using Axios with HTTP-only authentication cookies
+- Added a global search interface with Ctrl + K / ⌘ + K keyboard shortcuts
+- Deployed the frontend with Vercel
+- Deployed the backend on AWS EC2 with Nginx, PM2, HTTPS, and MongoDB Atlas
+- Currently expanding the platform with project, task, notes, Kanban, and dashboard functionality
+
+**Repositories:**
+- [Web Application](https://devspace.sharonp.pro)
+- [Github](https://github.com/Sharon812/DevSpace)
+
 
 ## 🌐 Connect With Me
 
